@@ -120,6 +120,7 @@ div{
 
 footer
 {   clear: both;
+	font-size: 30%;
     border-top: 30px solid #49c7c1;
     padding:30px;
     background-color: #666666;
